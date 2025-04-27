@@ -45,7 +45,7 @@ export default function Home() {
           >
             Backstage
           </a>
-        </div>
+        <div>
       </main>
     </div>
   );
